@@ -1,0 +1,4 @@
+stim
+pymatching
+logging
+numpy
